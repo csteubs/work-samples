@@ -1,2 +1,2 @@
 # work-samples
-Mini-projects offered through tutorials that I've completed.
+A collection of small online projects that allow for slow immersion into languages and functionalities.
